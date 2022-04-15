@@ -1,0 +1,19 @@
+.display-container {
+    background-color: #f6eadf;
+    border: 2px solid #000;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    height: 60px;
+    padding: 5px;
+}
+
+.upper {
+    font-size: 14px;
+    text-align: end;
+    margin-right: 10px;
+}
+.main {
+    text-align: end;
+    margin-right: 10px;
+    margin-top: 10px;
+}
